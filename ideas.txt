@@ -1,0 +1,20 @@
+1) cleaning data
+
+->Which stats do we actually have access to? Remove null data columns
+
+2) analysis
+   Repeat winner fraction vs. number unforced errors with: 
+	* number of aces
+	* number of winners
+	* number of double faults
+	* number of net points
+
+How does this change with surface?
+How are these numbers correlated with each other?
+
+How important is ‘momentum’??
+
+Generally, which number is the best predictor of win vs. loss?
+Plot distributions of number of aces, number of winners, etc for winners and losers
+
+Gradient boost on full sample
